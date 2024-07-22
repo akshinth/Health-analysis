@@ -5,8 +5,7 @@
 This Power BI dashboard provides comprehensive insights into the operational and financial aspects of Panipal Hospitals. It includes key performance indicators (KPIs) and visualizations designed to support data-driven decision-making and enhance hospital management.
 ## Dashboard Link
 
-- Access the dashboard [here](URL_TO_YOUR_DASHBOARD) (replace `URL_TO_YOUR_DASHBOARD` with the actual link to your Power BI dashboard).
-
+- Access the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjBjZjg5MjctMjU5Zi00MjRkLWFhZmMtNDUzZDE5ZTQzZWZjIiwidCI6IjhkYmFlYzdjLWI2ZjctNGEwZi05ZjYyLTAyOGZhOTM4ZDAyOCJ9)
 ## Features
 
 ### Key Performance Indicators (KPIs)
